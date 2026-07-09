@@ -4,6 +4,7 @@
     box-sizing: border-box;
 }
 body{
+    background-image: url(serene-lake-view-stockcake.jpg);
     background-color: #f3f3f3;
     display: flex;
     justify-content: center;
